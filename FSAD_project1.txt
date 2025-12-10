@@ -1,0 +1,10 @@
+git init
+git config --global user.name "Ananyateja"
+git config --global user.email "ananyateja10@gmail.com"
+git add .
+git commit -m "First project"
+git branch -M main
+git remote add origin ""
+git push -u origin main
+git checkout
+git log
